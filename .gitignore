@@ -1,0 +1,10 @@
+# Static site exported by publier.R
+shiny-eau/
+
+# Page rendered at publication time (publier.R), never versioned
+data/page.html
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
